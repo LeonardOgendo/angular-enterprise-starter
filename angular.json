@@ -58,7 +58,7 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles/globals.css"
             ]
           },
           "configurations": {
